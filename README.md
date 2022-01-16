@@ -29,7 +29,7 @@ Previously, I was consulting for 5 years within telecoms, government and banking
 
 <br />
 
-![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmergulh&show_icons=true&theme=github_dark)
+![Neil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmergulh&&count_private=true&show_icons=true&theme=github_dark)
 
 ## Connect With Me 🔗
 
