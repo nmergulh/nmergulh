@@ -7,8 +7,8 @@ I'm currently a trainee full stack software developer at [Northcoders]
 <p>When I'm not coding, I'm either at the gym, planning my next solo-backing adventure, cooking or watching a documentary</p>
 
 - 📺 **Currently Watching**: 14 Peaks Nothing is Impossible
-- 🦀 **Favourite Food**: Anything that is spicy
-- 🏝 **Favourite Holiday Destination**: Vietnam
+- 🌶 **Favourite Foods**: Thai Spicy Beef Salad, Biriyani and Grilled Lamb Chops are just a few
+- 🏝 **Favourite Holiday Destination**: Vietnam North to South
 
 <br />
 
