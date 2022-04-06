@@ -12,7 +12,7 @@ I'm currently a graduate full stack software developer at [Northcoders]
 
 <br />
 
-## Coding Journey - Ex-Business Consultant Turned Developer 🧑🏾‍💻
+## Ex-Business Consultant Turned Developer 🧑🏾‍💻
 
 Previously, I was consulting for 5 years within telecoms, government and banking. I undertook a variety of roles from PMO to Business Analyst. However, I wanted to become more involved in digital transformation from the technical side. As such, I joined [Northcoders] 13-week Full Stack Software Development course
 
